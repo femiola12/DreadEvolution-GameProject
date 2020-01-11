@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreadE2", "Assembly-CSharp.csproj", "{C209BB88-63A6-425C-2F54-6C6042E07027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreadE2", "Assembly-CSharp-Editor.csproj", "{3175D92A-1C08-710E-DD35-E44D3D427D38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C209BB88-63A6-425C-2F54-6C6042E07027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C209BB88-63A6-425C-2F54-6C6042E07027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C209BB88-63A6-425C-2F54-6C6042E07027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C209BB88-63A6-425C-2F54-6C6042E07027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3175D92A-1C08-710E-DD35-E44D3D427D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3175D92A-1C08-710E-DD35-E44D3D427D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3175D92A-1C08-710E-DD35-E44D3D427D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3175D92A-1C08-710E-DD35-E44D3D427D38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

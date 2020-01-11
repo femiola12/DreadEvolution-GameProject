@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b426f2cc12492324d8b2d7508aeb369a
+timeCreated: 1511390900
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Downcome
+  fontNames:
+  - Downcome
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

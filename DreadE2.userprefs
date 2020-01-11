@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\AIEnemy\EnemyState\MeleeState.cs">
+    <Files>
+      <File FileName="Assets\Script\AIEnemy\EnemyState\MeleeState.cs" Line="67" Column="25" />
+      <File FileName="Assets\Script\Player(1)\Buttons.cs" Line="128" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\femid\OneDrive\Documents\DreadE2\Assets\Buttons.cs" line="100" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
